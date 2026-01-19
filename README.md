@@ -1,3 +1,9 @@
-# Welcome to My GitHub Profile
+# Hi, I'm Sarah 👋🏻
 
-👋🏻 Hello there! I'm Sarah, a seasoned Software Developer passionate about crafting high-quality code and constantly learning.
+**Senior iOS Engineer crafting exceptional mobile experiences** 📱✨
+
+**Reach out:** sarah@sarahuniverse.com ✉️
+
+---
+
+*Building mobile experiences that users trust, one commit at a time.* 💙
