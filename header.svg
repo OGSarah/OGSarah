@@ -15,12 +15,12 @@
   
   <!-- Title with emoji -->
   <text x="400" y="120" font-family="Arial, serif" font-size="42" font-weight="bold" fill="#151b24" text-anchor="middle">
-    Hi, I'm Sarah 👋🏻
+    Hi, I'm Sarah 🙋🏼‍♀️
   </text>
   
   <!-- Subtitle -->
   <text x="400" y="175" font-family="Arial, serif" font-size="20" font-weight="600" fill="#151b24" text-anchor="middle">
-    Senior iOS Engineer crafting exceptional mobile experiences 📱💫
+    Senior iOS Engineer crafting exceptional mobile experiences 📱😎
   </text>
   
   <!-- Contact -->
