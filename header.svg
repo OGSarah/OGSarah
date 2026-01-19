@@ -13,38 +13,26 @@
   <!-- Content container -->
   <rect x="50" y="50" width="700" height="300" fill="white" fill-opacity="0.95" rx="12"/>
   
-  <!-- Title -->
-  <text x="400" y="110" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#5a67d8" text-anchor="middle">
-    Hi, I'm Sarah
+  <!-- Title with emoji -->
+  <text x="400" y="120" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#5a67d8" text-anchor="middle">
+    Hi, I'm Sarah 👋🏻
   </text>
-  
-  <!-- Wave emoji -->
-  <text x="545" y="110" font-size="32">👋🏻</text>
   
   <!-- Subtitle -->
-  <text x="400" y="155" font-family="Arial, sans-serif" font-size="19" font-weight="600" fill="#4c51bf" text-anchor="middle">
-    Senior iOS Engineer crafting exceptional mobile experiences
+  <text x="400" y="175" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#4c51bf" text-anchor="middle">
+    Senior iOS Engineer crafting exceptional mobile experiences 📱✨
   </text>
-  
-  <!-- Phone and sparkle emojis -->
-  <text x="220" y="182" font-size="20">📱✨</text>
   
   <!-- Contact -->
-  <text x="400" y="210" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#5a67d8" text-anchor="middle">
-    Reach out: sarah@sarahuniverse.com
+  <text x="400" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#5a67d8" text-anchor="middle">
+    Reach out: sarah@sarahuniverse.com ✉️
   </text>
-  
-  <!-- Email emoji -->
-  <text x="610" y="210" font-size="18">✉️</text>
   
   <!-- Divider line -->
-  <line x1="150" y1="240" x2="650" y2="240" stroke="#5a67d8" stroke-width="2" opacity="0.6"/>
+  <line x1="150" y1="260" x2="650" y2="260" stroke="#5a67d8" stroke-width="2" opacity="0.5"/>
   
   <!-- Tagline -->
-  <text x="400" y="285" font-family="Arial, sans-serif" font-size="17" font-style="italic" fill="#5a67d8" text-anchor="middle">
-    Building mobile experiences that users trust, one commit at a time.
+  <text x="400" y="305" font-family="Arial, sans-serif" font-size="18" font-style="italic" fill="#5a67d8" text-anchor="middle">
+    Building mobile experiences that users trust, one commit at a time. 💙
   </text>
-  
-  <!-- Heart emoji -->
-  <text x="610" y="285" font-size="18">💙</text>
 </svg>
