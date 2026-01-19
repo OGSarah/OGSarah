@@ -14,17 +14,17 @@
   <rect x="50" y="50" width="750" height="300" fill="white" fill-opacity="0.95" rx="12"/>
   
   <!-- Title with emoji -->
-  <text x="400" y="120" font-family="Arial, serif" font-size="42" font-weight="bold" fill="#151b24" text-anchor="middle">
+  <text x="400" y="120" font-family="Lobster, serif" font-size="42" font-weight="bold" fill="#151b24" text-anchor="middle">
     Hi, I'm Sarah 🙋🏼‍♀️
   </text>
   
   <!-- Subtitle -->
-  <text x="400" y="175" font-family="Arial, serif" font-size="20" font-weight="600" fill="#151b24" text-anchor="middle">
+  <text x="400" y="175" font-family="Lobster, serif" font-size="20" font-weight="600" fill="#151b24" text-anchor="middle">
     Senior iOS Engineer crafting exceptional mobile experiences 📱😎
   </text>
   
   <!-- Contact -->
-  <text x="400" y="225" font-family="Arial, sans-serif" font-size="18" font-weight="500" fill="#151b24" text-anchor="middle">
+  <text x="400" y="225" font-family="Lobster, serif" font-size="18" font-weight="500" fill="#151b24" text-anchor="middle">
     Reach out: sarah@sarahuniverse.com 📪
   </text>
   
