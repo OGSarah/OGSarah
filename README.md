@@ -6,7 +6,7 @@ Senior software engineer with 10+ years building secure, scalable software acros
 
 ### What I work on
 
-* **Apple platforms:** iOS (including iOS 26), iPadOS, watchOS, and visionOS, built in Swift and SwiftUI
+* **Apple platforms:** iOS, iPadOS, watchOS, and visionOS, built in Swift and SwiftUI
 * **Full stack architecture:** designing systems across mobile, backend, and web rather than just the view layer
 * **The hard, invisible parts:** data persistence and sync, concurrency, networking, release management, and QA
 * **AI assisted development:** integrating on device Apple Intelligence, and using AI tooling to speed up code review, debugging, and root cause analysis
