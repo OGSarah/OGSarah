@@ -53,5 +53,5 @@ Each public project below demonstrates a capability I use in professional, priva
 
 ## Find me
 
-- Portfolio: [sarahuniverse.com](https://www.sarahuniverse.com)
+- Portfolio: [sarahuniverse.com](http://www.sarahuniverse.com)
 - Email: sarah@sarahuniverse.com
