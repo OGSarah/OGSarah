@@ -22,25 +22,16 @@ Source is private, but it's the clearest example of my work taken all the way fr
 
 ## What these repos show, and how they map to my work
 
-### Working both sides of the app and backend boundary
-A lot of my professional work pairs a SwiftUI frontend with backend services I also own. These repos make that visible:
+Each public project below demonstrates a capability I use in professional, private work. They're working samples, not the scope of what I've shipped.
 
-- **[Calculator](https://github.com/OGSarah/Calculator)** — a SwiftUI client that logs session data to a Go backend, so the project spans the client, the network layer, and the service.
-- **[eCFRProject](https://github.com/OGSarah/eCFRProject)** — a Go service that ingests and analyzes U.S. federal regulation data and surfaces it through a lightweight web dashboard.
-
-### Low-level networking
-I like understanding the layer beneath the framework rather than treating it as a black box:
-
-- **[HTTPServer](https://github.com/OGSarah/HTTPServer)** — a custom HTTP/1.1 server written in Swift directly on Darwin sockets, handling request parsing, routing, and concurrency control without a web framework.
-
-### Modern iOS architecture and testing
-The patterns I reach for on real products: clear architecture boundaries, structured concurrency, and tests:
-
-- **[Culinary-Catalog](https://github.com/OGSarah/Culinary-Catalog)** — MVVM with dependency injection over a Core Data store, an async/await networking layer, typed error handling, and Swift Testing coverage.
-- **[Workout](https://github.com/OGSarah/Workout)** — Swift Charts visualizations driven by derived trends over a dataset, with attention to glanceable, readable state.
-
-### Apple platform depth
-- **[QRCodeGen](https://github.com/OGSarah/QRCodeGen)** — a SwiftUI generator built on a Core Image filter pipeline.
+| Repo | What it demonstrates | How it maps to my work |
+| --- | --- | --- |
+| **[Calculator](https://github.com/OGSarah/Calculator)** | A SwiftUI client that logs session data to a Go backend, spanning client, network layer, and service | Pairing SwiftUI frontends with backend services I also own |
+| **[eCFRProject](https://github.com/OGSarah/eCFRProject)** | A Go service that ingests and analyzes federal regulation data, surfaced through a web dashboard | Backend ingestion and analytics, full stack ownership |
+| **[HTTPServer](https://github.com/OGSarah/HTTPServer)** | A custom HTTP/1.1 server in Swift on Darwin sockets, with request parsing, routing, and concurrency control | Low-level networking below the framework layer |
+| **[Culinary-Catalog](https://github.com/OGSarah/Culinary-Catalog)** | MVVM with dependency injection over Core Data, an async/await networking layer, typed errors, and Swift Testing | Modern iOS architecture, structured concurrency, and test coverage |
+| **[Workout](https://github.com/OGSarah/Workout)** | Swift Charts visualizations driven by derived trends, with glanceable, readable state | Data-driven UI and Apple framework depth |
+| **[QRCodeGen](https://github.com/OGSarah/QRCodeGen)** | A SwiftUI generator built on a Core Image filter pipeline | Apple platform and media framework experience |
 
 ---
 
