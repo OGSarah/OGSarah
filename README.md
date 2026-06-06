@@ -8,6 +8,18 @@ I work across the whole stack of an iOS product, from the socket up to the polis
 
 ---
 
+## 🚀 Shipped to the App Store: TossTracker
+
+**[TossTracker](https://apps.apple.com/app/tosstracker/id6758673916)** is a cornhole scoring app I designed, built, and published to the App Store on my own.
+
+It handles cancellation scoring automatically, manages rounds and turn order, and saves every completed match with full team, score, and date detail. Beyond the core scoring it includes searchable and filterable game history, CSV export and sharing, an in-app rules reference, optional sounds and haptics, and a confetti finish.
+
+It's built for everyone, with full VoiceOver support and labels and hints throughout, independent light and dark mode, landscape support, and resumable in-progress games.
+
+Source is private, but it's the clearest example of my work taken all the way from idea to a released, accessible, polished product.
+
+---
+
 ## What these repos show, and how they map to my work
 
 ### Working both sides of the app and backend boundary
@@ -51,3 +63,4 @@ The patterns I reach for on real products: clear architecture boundaries, struct
 ## Find me
 
 - Portfolio: [sarahuniverse.com](https://www.sarahuniverse.com)
+- Email: sarah@sarahuniverse.com
