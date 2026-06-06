@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋
 
-**Senior iOS Engineer** with 12 years building Swift and SwiftUI apps shipped to the App Store at enterprise scale.
+**Senior iOS Engineer** with 12 years building iOS apps shipped to the App Store at enterprise scale.
 
 Most of my production work lives in private, enterprise codebases, so it can't be public. The repositories below are where I keep my hands-on Swift current and where I explore the layers below the UI. They're meant to be read as working samples, not as the scope of what I've shipped.
 
