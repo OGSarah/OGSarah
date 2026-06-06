@@ -1,4 +1,4 @@
-# Hi, I'm Sarah 👋
+# Hi, I'm Sarah 👋🏻
 
 **Senior iOS Engineer** with a decade of building iOS apps shipped to the App Store at enterprise scale.
 
