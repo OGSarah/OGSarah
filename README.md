@@ -1,28 +1,53 @@
-# Hi, I'm Sarah 👩🏼‍💻
+# Hi, I'm Sarah 👋
 
-Senior software engineer with 10+ years building secure, scalable software across **Apple platforms, backend, web, and enterprise systems**, from system architecture and networking through to shipping production apps. I focus on modern Apple platform development paired with full stack architecture.
+**Senior iOS Engineer** with 12 years building Swift and SwiftUI apps shipped to the App Store at enterprise scale.
 
-**[sarahuniverse.com](http://www.sarahuniverse.com)** — full background, skills, and shipped work.
+Most of my production work lives in private, enterprise codebases, so it can't be public. The repositories below are where I keep my hands-on Swift current and where I explore the layers below the UI. They're meant to be read as working samples, not as the scope of what I've shipped.
 
-### What I work on
+I work across the whole stack of an iOS product, from the socket up to the polished Apple-platform surface, and I'm comfortable owning a feature end to end.
 
-- **Apple platforms:** iOS, iPadOS, watchOS, and visionOS in Swift and SwiftUI
-- **Full stack architecture:** systems spanning mobile, backend, and web
-- **Infrastructure:** data persistence and sync, concurrency, networking, release management, and QA
-- **AI-assisted development:** integrating on-device Apple Intelligence, and using AI tooling for code review, debugging, and root cause analysis
+---
 
-### Tech I use
+## What these repos show, and how they map to my work
 
-- **Languages:** Swift, Go, JavaScript
-- **Apple frameworks:** SwiftUI, UIKit, SwiftData, CoreData, HealthKit, CryptoKit, ActivityKit, WatchKit, Swift Charts, MapKit, MusicKit, PhotosUI, Combine, Observation
-- **Practices:** modular architecture, testable design, CI/CD, structured beta cycles, code review
+### Working both sides of the app and backend boundary
+A lot of my professional work pairs a SwiftUI frontend with backend services I also own. These repos make that visible:
 
-### About these repos
+- **[Calculator](https://github.com/OGSarah/Calculator)** — a SwiftUI client that logs session data to a Go backend, so the project spans the client, the network layer, and the service.
+- **[eCFRProject](https://github.com/OGSarah/eCFRProject)** — a Go service that ingests and analyzes U.S. federal regulation data and surfaces it through a lightweight web dashboard.
 
-Most of my production and client work is in private repositories, so the public repos here are focused demos and explorations. Happy to walk through architecture and tradeoffs in more depth on request.
+### Low-level networking
+I like understanding the layer beneath the framework rather than treating it as a black box:
 
-### Beyond shipping code
+- **[HTTPServer](https://github.com/OGSarah/HTTPServer)** — a custom HTTP/1.1 server written in Swift directly on Darwin sockets, handling request parsing, routing, and concurrency control without a web framework.
 
-I've worked with UX leadership to define platform interaction standards across teams, and I support other engineers through code review, pairing, and building reusable patterns.
+### Modern iOS architecture and testing
+The patterns I reach for on real products: clear architecture boundaries, structured concurrency, and tests:
 
-**[sarahuniverse.com](http://www.sarahuniverse.com)**
+- **[Culinary-Catalog](https://github.com/OGSarah/Culinary-Catalog)** — MVVM with dependency injection over a Core Data store, an async/await networking layer, typed error handling, and Swift Testing coverage.
+- **[Workout](https://github.com/OGSarah/Workout)** — Swift Charts visualizations driven by derived trends over a dataset, with attention to glanceable, readable state.
+
+### Apple platform depth
+- **[QRCodeGen](https://github.com/OGSarah/QRCodeGen)** — a SwiftUI generator built on a Core Image filter pipeline.
+
+---
+
+## Tech I work in
+
+**Languages:** Swift, Go, Objective-C, Python, Java, JavaScript
+
+**Apple platforms:** iOS (incl. iOS 26), iPadOS, watchOS, visionOS
+
+**Frameworks:** SwiftUI, UIKit, Core Data, SwiftData, Swift Charts, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit
+
+**Concurrency:** async/await, Combine, Observation
+
+**Backend and APIs:** Go, REST, GraphQL, WebSockets, PostgreSQL, SQLite
+
+**Quality and tooling:** Swift Testing, XCTest, XCUITest, SwiftLint, Fastlane, Xcode Cloud, GitHub Actions, TestFlight
+
+---
+
+## Find me
+
+- Portfolio: [sarahuniverse.com](https://www.sarahuniverse.com)
