@@ -31,9 +31,9 @@ Each public project below demonstrates a capability I use in professional, priva
 ## Tech I work in
 - **Languages:** Swift, Go, Objective-C, Python, Java, JavaScript
 - **Apple platforms:** iOS (incl. iOS 27), iPadOS, watchOS, visionOS
-- **Frameworks:** SwiftUI, UIKit, Core Data, SwiftData, Swift Charts, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit
+- **Frameworks:** SwiftUI, UIKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, UniformTypeIdentifiers, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit
 - **Concurrency:** async/await, Combine, Observation
-- **Backend and APIs:** Go, REST, GraphQL, WebSockets, PostgreSQL, SQLite
+- **Backend and APIs:** Go, Gin, REST, GraphQL, WebSockets, Darwin/POSIX sockets, PostgreSQL, SQLite
 - **Quality and tooling:** Swift Testing, XCTest, XCUITest, SwiftLint, Fastlane, Xcode Cloud, GitHub Actions, TestFlight
 
 ---
