@@ -18,7 +18,7 @@ Each public project below demonstrates a capability I use in professional, priva
 
 | Repo | What it demonstrates | How it maps to my work |
 | --- | --- | --- |
-| **[Calculator](https://github.com/OGSarah/Calculator)** | A SwiftUI client that logs session data to a Go backend, spanning client, network layer, and service | Pairing SwiftUI frontends with backend services I also own |
+| **[Calculator](https://github.com/OGSarah/Calculator)** | MVVM over a protocol-driven service layer with dependency injection; SwiftData persistence syncing to a Go + SQLite backend on background, with an offline retry queue; unit, UI, and backend test coverage | Owning testable, resilient architecture across a SwiftUI client and its backend |
 | **[eCFRProject](https://github.com/OGSarah/eCFRProject)** | A Go service that ingests and analyzes federal regulation data, surfaced through a web dashboard | Backend ingestion and analytics, full stack ownership |
 | **[HTTPServer](https://github.com/OGSarah/HTTPServer)** | A from-scratch HTTP/1.1 server in Swift 6 on raw Darwin sockets, no frameworks: request framing, routing, an actor-backed store, and strict-concurrency-clean structured concurrency | Low-level networking and safe concurrency below the framework layer |
 | **[Culinary-Catalog](https://github.com/OGSarah/Culinary-Catalog)** | MVVM with dependency injection over Core Data, an async/await networking layer, typed errors, and Swift Testing | Modern iOS architecture, structured concurrency, and test coverage |
