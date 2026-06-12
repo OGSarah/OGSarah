@@ -36,7 +36,7 @@ Each public project below demonstrates a capability I use in professional, priva
 - **Frameworks:** SwiftUI, UIKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, UniformTypeIdentifiers, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit
 - **Concurrency:** async/await, Combine, Observation
 - **Backend and APIs:** Go, Gin, REST, GraphQL, WebSockets, Darwin/POSIX sockets, PostgreSQL, SQLite
-- **Quality and tooling:** Swift Testing, XCTest, XCUITest, SwiftLint, Fastlane, Xcode Cloud, GitHub Actions, TestFlight
+- **Quality and tooling:** Swift Testing, XCTest, XCUIAutomation, SwiftLint, Fastlane, Xcode Cloud, GitHub Actions, TestFlight
 
 ---
 
