@@ -25,6 +25,8 @@ Each public project below demonstrates a capability I use in professional, priva
 | **[culinary-catalog-data](https://github.com/OGSarah/culinary-catalog-data)** | A zero-infrastructure JSON data service backing Culinary-Catalog: a single source of truth fanned out into versioned, schema-validated feeds, auto-published by a GitHub Actions pipeline | Owning the data contract and release automation behind a shipped client |
 | **[Workout](https://github.com/OGSarah/Workout)** | A pure, deterministic domain core under a Swift 6 strict-concurrency UI; protocol-based dependency injection over SwiftData; Swift Charts visualizations, all backed by 64 unit and UI tests | Safe concurrency, testable domain design, and Apple framework depth |
 | **[QRCodeGen](https://github.com/OGSarah/QRCodeGen)** | A protocol-seam architecture with dependency injection over a Core Image generation pipeline; an off-main, Sendable generator under Swift 6 strict concurrency; typed errors and SwiftData hidden behind protocols, all mock-tested without UIKit, Core Image, or disk | Testable architecture and Apple framework depth, zero third-party dependencies |
+| **[Recipes](https://github.com/OGSarah/Recipes)** | @Observable MVVM behind protocol seams with init-injected dependencies; Swift 6 strict concurrency with off-main, Sendable networking and typed errors; a custom decoder that flattens TheMealDB's parallel ingredient fields; SwiftData favorites that render fully offline; cached AsyncImage thumbnails over a shared URLCache; and full VoiceOver support, all backed by 31 unit and UI tests across Swift Testing, XCTest, and XCUIAutomation | Building accessible, offline-capable SwiftUI features on a testable, protocol-oriented core |
+
 
 ---
 
