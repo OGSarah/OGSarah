@@ -4,7 +4,7 @@
 
 I own features end to end, across the whole stack, from raw sockets up to a polished Apple-platform surface.
 
-Most of my production work lives in private enterprise codebases, so it can't be public. The repos below are where I keep my Swift sharp and explore the layers beneath the UI. **Read them as working samples, not the full scope of what I've shipped.**
+Most of my production work lives in private enterprise codebases, so it can't be public. The repos below are where I keep my Swift sharp, work with the latest frameworks and tools, and explore the layers beneath the UI. **Read them as working samples, not the full scope of what I've shipped.**
 
 ---
 
