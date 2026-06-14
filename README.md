@@ -1,7 +1,10 @@
 # Hi, I'm Sarah 👋🏻
-**Senior iOS Engineer** with over a decade of building iOS apps shipped to the App Store at enterprise scale.
-Most of my production work lives in private, enterprise codebases, so it can't be public. The repositories below are where I keep my hands-on Swift current and where I explore the layers below the UI. They're meant to be read as working samples, not as the scope of what I've shipped.
-I work across the whole stack of an iOS product, from the socket up to the polished Apple-platform surface, and I'm comfortable owning a feature end to end.
+
+**Senior iOS Engineer** with 10+ years shipping apps to the App Store at enterprise scale.
+
+I own features end to end, across the whole stack, from raw sockets up to a polished Apple-platform surface.
+
+Most of my production work lives in private enterprise codebases, so it can't be public. The repos below are where I keep my Swift sharp and explore the layers beneath the UI. **Read them as working samples, not the full scope of what I've shipped.**
 
 ---
 
