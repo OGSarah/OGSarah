@@ -27,8 +27,9 @@ Source is private, but it's the clearest example of my work taken all the way fr
 
 ---
 
-## What these repos show, and how they map to my work
-Each public project below demonstrates a capability I use in professional, private work. They're working samples, not the scope of what I've shipped.
+## Example projects
+
+Each public repo below maps a capability you can see in the code to how I apply it in private, professional work.
 
 | Repo | What it demonstrates | How it maps to my work |
 | --- | --- | --- |
