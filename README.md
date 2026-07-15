@@ -42,7 +42,7 @@ Each public repo below maps a capability you can see in the code to how I apply 
 | **[Recipes](https://github.com/OGSarah/Recipes)** | @Observable MVVM behind protocol seams with init-injected dependencies. Swift 6 strict concurrency with off-main, Sendable networking and typed errors. A custom decoder that flattens TheMealDB's parallel ingredient fields. SwiftData favorites that render fully offline. Cached AsyncImage thumbnails over a shared URLCache. Full VoiceOver support, all backed by 31 unit and UI tests across Swift Testing, XCTest, and XCUIAutomation | Building accessible, offline-capable SwiftUI features on a testable, protocol-oriented core |
 | **[Culinary-Catalog](https://github.com/OGSarah/Culinary-Catalog)** | MVVM with dependency injection over Core Data, an async/await networking layer, typed errors, and Swift Testing | Modern iOS architecture, structured concurrency, and test coverage |
 | **[culinary-catalog-data](https://github.com/OGSarah/culinary-catalog-data)** | A zero-infrastructure JSON data service backing Culinary-Catalog: a single source of truth fanned out into versioned, schema-validated feeds, auto-published by a GitHub Actions pipeline | Owning the data contract and release automation behind a shipped client |
-
+| **[iOS-Architecture](https://github.com/OGSarah/iOS-Architecture)** | *(Work in progress)* A growing collection of small, standalone Xcode projects, one per architecture or design pattern (MVC, MVVM, VIPER, Coordinator, dependency injection, and more), each with its own README covering when to use it and its tradeoffs | A reference library I maintain for comparing architectural approaches side by side and keeping pattern fundamentals sharp |
 
 ---
 
