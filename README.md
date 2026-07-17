@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋🏻
 
-**Senior iOS Engineer** with 10+ years shipping apps to the App Store at enterprise scale.
+**Senior Software Engineer** with 10+ years shipping apps to the App Store at enterprise scale.
 
 I own features end to end, across the whole stack, from raw sockets up to a polished Apple-platform surface.
 
