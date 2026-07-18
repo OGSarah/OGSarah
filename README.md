@@ -70,14 +70,6 @@ Services, ingestion, and networking below the framework layer, from a from-scrat
 
 ---
 
-## 🌐 Web Development
-
-Responsive, accessible, fast web experiences built from scratch. I designed and built my portfolio site, [sarahuniverse.com](http://www.sarahuniverse.com), handling layout, animation, and styling in pure HTML and CSS.
-
-**Stack:** HTML5 · CSS3 · JavaScript
-
----
-
 ## 🧰 Tech I work in
 
 - **Languages:** Swift, Go, TypeScript, Objective-C, Python, Java, JavaScript, C#
