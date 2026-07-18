@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋🏻
 
-**Full Stack Software Engineer** with 10+ years building secure, scalable software at enterprise scale, from raw sockets and backend services up to polished, accessible Apple-platform apps.
+**Full Stack Senior Software Engineer** with 10+ years building secure, scalable software at enterprise scale, from raw sockets and backend services up to polished, accessible Apple-platform apps.
 
 I own features end to end, across the whole stack, from backend services and networking to polished client UI. Most of my production work lives in private enterprise codebases, so it can't be public. The repos below are where I keep my skills sharp across Swift, Go, and the web, work with the latest frameworks and tools, and explore the layers beneath the UI. **Read them as working samples, not the full scope of what I've shipped.**
 
@@ -28,13 +28,14 @@ Source is private, but it's the clearest example of my work taken all the way fr
 
 ## 🔗 Full Stack Engineer
 
-End-to-end ownership: a SwiftUI client and the backend it talks to, with a clean API contract and resilience in between.
+End-to-end ownership: clients and the backends they talk to, with clean API contracts and resilience in between.
 
 | Repo | What it demonstrates | How it maps to my work |
 | --- | --- | --- |
 | **[Calculator](https://github.com/OGSarah/Calculator)** | MVVM over a protocol-driven service layer with dependency injection. SwiftData persistence syncing to a Go + SQLite backend on background, with an offline retry queue. Unit, UI, and backend test coverage | Owning testable, resilient architecture across a SwiftUI client and its backend |
+| **[Weaver](https://github.com/OGSarah/Weaver)** | *(Work in progress)* A DAG-based job scheduler and workflow orchestrator in Go with a React UI. Cycle-detecting DAG validation with DFS and topological scheduling. A durable Postgres-backed task queue using `SELECT ... FOR UPDATE SKIP LOCKED` so a task runs on exactly one worker. At-least-once execution with idempotency keys, heartbeat leases, and reaper-based recovery of tasks orphaned by dead workers. Retries with exponential backoff, jitter, and timeouts. A React view that renders the DAG with live run status and logs over a REST API, all runnable via Docker Compose | Designing reliable distributed execution end to end, from queue semantics and failure recovery to a live workflow UI |
 
-**Stack:** Swift · SwiftUI · SwiftData · Go · SQLite · REST
+**Stack:** Swift · SwiftUI · SwiftData · Go · React · Postgres · SQLite · REST · Docker
 
 ---
 
@@ -79,12 +80,12 @@ Responsive, accessible, fast web experiences built from scratch. I designed and 
 
 ## 🧰 Tech I work in
 
-- **Languages:** Swift, Go, Objective-C, Python, Java, JavaScript, C#
+- **Languages:** Swift, Go, TypeScript, Objective-C, Python, Java, JavaScript, C#
 - **Apple platforms:** iOS (incl. iOS 27), iPadOS, macOS, watchOS, visionOS
-- **Frameworks:** SwiftUI, UIKit, AppKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, UniformTypeIdentifiers, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit, Foundation Models, Vision
+- **Frameworks:** SwiftUI, UIKit, AppKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, UniformTypeIdentifiers, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit
 - **Concurrency:** async/await, Combine, Observation
 - **Backend and APIs:** Go, Gin, REST, GraphQL, WebSockets, Darwin/POSIX sockets, PostgreSQL, SQLite
-- **Web:** HTML5, CSS3, JavaScript
+- **Web:** React, HTML5, CSS3, JavaScript
 - **Quality and tooling:** Swift Testing, XCTest, XCUIAutomation, Appium, Selenium, SwiftLint, Fastlane, Jenkins, Xcode Cloud, GitHub Actions, TestFlight
 - **Enterprise IT:** MDM, Active Directory, Exchange Server, PowerShell, Windows Server
 - **AI:** Claude Code, GitHub Copilot, Cursor, Codex, Xcode Apple Intelligence
