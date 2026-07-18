@@ -74,12 +74,10 @@ Services, ingestion, and networking below the framework layer, from a from-scrat
 
 - **Languages:** Swift, Go, TypeScript, Objective-C, Python, Java, JavaScript, C#
 - **Apple platforms:** iOS (incl. iOS 27), iPadOS, macOS, watchOS, visionOS
-- **Frameworks:** SwiftUI, UIKit, AppKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, UniformTypeIdentifiers, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit, Foundation Models, Vision
-- **Concurrency:** async/await, Combine, Observation
+- **Frameworks:** SwiftUI, UIKit, AppKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit, Core Location, Foundation Models, Vision, Async/Await, Core Graphics, RESTful APIs / URLSession, AVFoundation, WidgetKit
 - **Backend and APIs:** Go, Gin, REST, GraphQL, WebSockets, Darwin/POSIX sockets, PostgreSQL, SQLite
 - **Web:** React, HTML5, CSS3, JavaScript
-- **Quality and tooling:** Swift Testing, XCTest, XCUIAutomation, Appium, Selenium, SwiftLint, Fastlane, Jenkins, Xcode Cloud, GitHub Actions, TestFlight
-- **Enterprise IT:** MDM, Active Directory, Exchange Server, PowerShell, Windows Server
+- **Testing, CI/CD, and Tooling:** Swift Testing, XCTest, XCUIAutomation, Appium, Selenium, SwiftLint, Fastlane, Jenkins, Xcode Cloud, GitHub Actions, TestFlight
 - **AI:** Claude Code, GitHub Copilot, Cursor, Codex, Xcode Apple Intelligence
 
 ---
