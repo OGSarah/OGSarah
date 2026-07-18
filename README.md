@@ -26,7 +26,7 @@ Source is private, but it's the clearest example of my work taken all the way fr
 
 ---
 
-## 🔗 Full Stack Engineer
+## 🥞 Full Stack Engineer
 
 End-to-end ownership: clients and the backends they talk to, with clean API contracts and resilience in between.
 
