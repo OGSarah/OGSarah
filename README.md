@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋🏻
 
-**Full Stack Senior Software Engineer** with 10+ years building secure, scalable software at enterprise scale, from raw sockets and backend services up to polished, accessible Apple-platform apps.
+**Full Stack Software Engineer** with 10+ years building secure, scalable software at enterprise scale, from raw sockets and backend services up to polished, accessible Apple-platform apps.
 
 I own features end to end, across the whole stack, from backend services and networking to polished client UI. Most of my production work lives in private enterprise codebases, so it can't be public. The repos below are where I keep my skills sharp across Swift, Go, and the web, work with the latest frameworks and tools, and explore the layers beneath the UI. **Read them as working samples, not the full scope of what I've shipped.**
 
