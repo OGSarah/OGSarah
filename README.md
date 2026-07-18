@@ -81,7 +81,7 @@ Responsive, accessible, fast web experiences built from scratch. I designed and 
 
 - **Languages:** Swift, Go, Objective-C, Python, Java, JavaScript, C#
 - **Apple platforms:** iOS (incl. iOS 27), iPadOS, macOS, watchOS, visionOS
-- **Frameworks:** SwiftUI, UIKit, AppKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, UniformTypeIdentifiers, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit
+- **Frameworks:** SwiftUI, UIKit, AppKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, UniformTypeIdentifiers, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit, Foundation Models, Vision
 - **Concurrency:** async/await, Combine, Observation
 - **Backend and APIs:** Go, Gin, REST, GraphQL, WebSockets, Darwin/POSIX sockets, PostgreSQL, SQLite
 - **Web:** HTML5, CSS3, JavaScript
