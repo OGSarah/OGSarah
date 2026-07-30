@@ -92,5 +92,5 @@ Built with Swift · Objective-C · SwiftUI · UIKit · AppKit · SwiftData · Co
 
 ## Find me
 
-- Portfolio at [sarahuniverse.com](http://www.sarahuniverse.com)
+- Portfolio at [sarahuniverse.com](https://www.sarahuniverse.com)
 - Reach me at sarah@sarahuniverse.com
