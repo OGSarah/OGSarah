@@ -1,4 +1,4 @@
-# Hi, I'm Sarah 👋🏻
+# Hi, I'm Sarah 👋🏻👩🏼‍💻
 
 **Full Stack Software Engineer** with 10+ years building secure, scalable software at enterprise scale, including five years on backend services, APIs, and full-stack delivery, alongside a decade of polished, accessible Apple-platform work. I'm equally at home in a Postgres transaction, a raw socket, and a SwiftUI view.
 
