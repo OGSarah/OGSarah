@@ -22,12 +22,15 @@ Built with Go · Postgres · React · Docker · REST · JavaScript
 
 ## 🚀 Shipped to the App Store
 
-**[TossTracker](https://apps.apple.com/app/tosstracker/id6758673916)** is a cornhole scoring app I designed, built, and published to the App Store on my own.
+**[TossTracker](https://apps.apple.com/app/tosstracker/id6758673916)** is a cornhole scoring app for iPhone, iPad, and Apple Watch that I designed, built, and published to the App Store on my own.
 
-- Automatic cancellation scoring, round management, and turn order, with resumable in-progress games
-- Every completed match saved with full team, score, and date detail, searchable and filterable, with CSV export and sharing
-- Full VoiceOver support with labels and hints throughout, independent light and dark mode, and landscape support
-- In-app rules reference, optional sounds and haptics, and a confetti finish
+- Automatic cancellation scoring, round management, and turn order, with undo/redo, resumable in-progress games, and one-tap rematches
+- An Apple Watch companion that either mirrors the phone or scores a full game on its own, with single-device ownership and automatic handoff so the two can never disagree, an offline command queue, and a live watch face complication
+- Live Activities and Dynamic Island with scoring buttons right on the Lock Screen, plus Siri and Shortcuts in English and Spanish, a Control Center control, Home Screen widgets with head-to-head records, and Spotlight-searchable game history
+- An iPad two-column layout that adapts to the window rather than the device, with one live game shared across every window
+- A statistics dashboard and per-game detail sheets with Swift Charts score progression, plus sorting, filtering, search, and CSV export
+- Accessibility audited in CI across 13 screen states, with full VoiceOver support (including Audio Graphs for charts), Dynamic Type, Reduce Motion, and English and Spanish localization
+- Scoring rules live in one shared Swift package linked by the app, the watch app, and both widget extensions, all under Swift 6 strict concurrency with warnings as errors, strict SwiftLint, and a GitHub Actions pipeline that builds every scheme and runs unit, UI, and accessibility tests
 
 Source is private, but it's the clearest example of my work taken all the way from idea to a released, accessible, polished product.
 
@@ -72,7 +75,7 @@ Accessible, offline-capable, testable apps built on protocol-oriented cores unde
 | **[Culinary-Catalog](https://github.com/OGSarah/Culinary-Catalog)** | MVVM with dependency injection over Core Data, an async/await networking layer, typed errors, and Swift Testing | Modern iOS architecture, structured concurrency, and test coverage |
 | **[iOS-Architecture](https://github.com/OGSarah/iOS-Architecture)** | A growing collection of small, standalone Xcode projects, one per architecture or design pattern (MVC, MVVM, VIPER, Coordinator, dependency injection, and more), each with its own README covering when to use it and its tradeoffs | A reference library I maintain for comparing architectural approaches side by side and keeping pattern fundamentals sharp |
 
-Built with Swift · Objective-C · SwiftUI · UIKit · AppKit · SwiftData · Core Data · Swift Charts · Core Image · Combine · Observation · HealthKit · CryptoKit · ActivityKit · MapKit
+Built with Swift · Objective-C · SwiftUI · UIKit · AppKit · SwiftData · Core Data · Swift Charts · Core Image · Combine · Observation · HealthKit · CryptoKit · ActivityKit · WidgetKit · App Intents · WatchConnectivity · MapKit
 
 ---
 
@@ -84,7 +87,7 @@ Built with Swift · Objective-C · SwiftUI · UIKit · AppKit · SwiftData · Co
 | Backend and APIs | Go, Gin, REST, GraphQL, WebSockets, Darwin/POSIX sockets, PostgreSQL, SQLite |
 | Web | React, HTML5, CSS3, JavaScript |
 | Apple platforms | iOS (incl. iOS 27), iPadOS, macOS, watchOS, visionOS |
-| Frameworks | SwiftUI, UIKit, AppKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, Combine, Observation, ActivityKit, HealthKit, CryptoKit, MapKit, Core Location, Foundation Models, Vision, Async/Await, Core Graphics, RESTful APIs / URLSession, AVFoundation, WidgetKit |
+| Frameworks | SwiftUI, UIKit, AppKit, Core Data, SwiftData, Swift Charts, Core Image, WebKit, PhotosUI/Photos, Combine, Observation, ActivityKit, WidgetKit, App Intents, TipKit, WatchConnectivity, WatchKit, StoreKit, HealthKit, CryptoKit, MapKit, Core Location, Foundation Models, Vision, Async/Await, Core Graphics, RESTful APIs / URLSession, AVFoundation |
 | Testing, CI/CD, and Tooling | Swift Testing, XCTest, XCUIAutomation, Appium, Selenium, SwiftLint, Fastlane, Jenkins, Xcode Cloud, GitHub Actions, TestFlight, Docker, Docker Compose |
 | AI | Claude Code, GitHub Copilot, Cursor, Codex, Xcode Apple Intelligence |
 
